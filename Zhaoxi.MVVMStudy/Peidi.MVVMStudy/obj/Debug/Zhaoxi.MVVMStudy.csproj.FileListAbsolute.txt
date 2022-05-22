@@ -1,0 +1,53 @@
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe.config
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csprojAssemblyReference.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\App.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.lref
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.g.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.Properties.Resources.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.GenerateResource.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.exe
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Themes\Generic.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201130WPF上位机Course22MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.exe
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe.config
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\App.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.lref
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.g.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.Properties.Resources.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.GenerateResource.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csprojAssemblyReference.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe.config
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.pdb
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.AssemblyReference.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\App.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.lref
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.baml
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.baml
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.g.resources
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.Properties.Resources.resources
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.GenerateResource.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.csproj.CoreCompileInputs.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.exe
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.pdb

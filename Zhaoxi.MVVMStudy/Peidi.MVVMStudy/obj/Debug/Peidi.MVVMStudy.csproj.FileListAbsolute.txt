@@ -1,0 +1,16 @@
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe.config
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.exe
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\bin\Debug\Zhaoxi.MVVMStudy.pdb
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\App.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy_MarkupCompile.lref
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\UserControl1.baml
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\View\MainWindow.baml
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.g.resources
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.Properties.Resources.resources
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Peidi.MVVMStudy.csproj.GenerateResource.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Peidi.MVVMStudy.csproj.CoreCompileInputs.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.exe
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201205WPF上位机Course23MVVM\20201205WPF上位机Course23MVVM\src\Zhaoxi.MVVMStudy\Zhaoxi.MVVMStudy\obj\Debug\Zhaoxi.MVVMStudy.pdb
